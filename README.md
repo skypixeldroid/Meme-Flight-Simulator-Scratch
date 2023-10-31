@@ -6,3 +6,5 @@ Here's the link to our updated version:
 scratch.mit.edu/projects/915664512
 
 We also have SB3 files available for PERSONAL USE ONLY in our release section.
+Here's the link to our releases:
+https://github.com/skypixeldroid/Meme-Flight-Simulator-Scratch-/releases
