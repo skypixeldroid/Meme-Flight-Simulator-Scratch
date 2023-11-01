@@ -1,4 +1,4 @@
-# Meme-Flight-Simulator-Scratch-
+# Meme Flight Simulator On Scratch
 Hello there! This is just me and my friend's attempt at making a flight simulator on Scratch! I'm @skypixellol on scratch, and my friend is @bpa812 on scratch.
 Here's the link to our first version (Please note that this is not our latest!):
 https://scratch.mit.edu/projects/856594554/
