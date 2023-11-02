@@ -8,3 +8,5 @@ https://scratch.mit.edu/projects/915664512
 We also have SB3 files available for PERSONAL USE ONLY in our release section.
 Here's the link to our releases:
 https://github.com/skypixeldroid/Meme-Flight-Simulator-Scratch-/releases
+Also, fun fact, you can use scratch offline by downloading it: (but our multiplayer feature won't work)
+https://scratch.mit.edu/download
